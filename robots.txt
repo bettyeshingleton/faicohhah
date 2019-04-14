@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heigahmaiy.nickysheen.ru/sitemap.xml
